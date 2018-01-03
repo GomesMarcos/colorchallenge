@@ -1,0 +1,12 @@
+Um nome e uma cor aparecerão randomicamente
+
+Você terá 5 segundos para acertar a cor da letra, não o texto;
+
+Caso os acertos sejam >=10 e <15
+    tempo 4s
+Caso os acertos sejam >= 15 e < 20
+    tempo 3.5s
+Caso os acertos sejam >=20
+    tempo 3s
+    
+Terá direito a 1 continue
